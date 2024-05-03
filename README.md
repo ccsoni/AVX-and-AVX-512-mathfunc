@@ -3,7 +3,7 @@
 This package includes the AVX-optimized implementations of
 mathematical functions (trigonometric, exponential, logarithmic and
 cubic root functions) based on the original implementation
-[avx_mathfun.h](https://github.com/gioGarbe/avx_mathfun) by Giovanni Garberoglio.
+[avx_mathfun.h](http://software-lisc.fbk.eu/avx_mathfun/) by Giovanni Garberoglio.
 
 The major difference from the original version is that this package has additional 
 implementation of cubic root function and implementations with the AVX-512 instructions.
